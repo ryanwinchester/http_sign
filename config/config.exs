@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure your application as:
 #
-#     config :http_sig, key: :value
+#     config :http_sign, key: :value
 #
 # and access this configuration in your application as:
 #
-#     Application.get_env(:http_sig, :key)
+#     Application.get_env(:http_sign, :key)
 #
 # You can also configure a 3rd-party app:
 #
